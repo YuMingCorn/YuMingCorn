@@ -19,6 +19,10 @@
 | [OpenCV_For_Edge_Device](https://github.com/YuMingCorn/OpenCV_For_Edge_Device) | 以 C11 手刻基本影像處理，全部使用整數定點運算，各平台輸出逐 byte 相同，可編譯到樹莓派、Cortex-M 與 AVR。 | C11、CMake | 2026-11-14 |
 | [portfolio-app](https://github.com/YuMingCorn/portfolio-app) | 個人投資組合管理 APP。帳本存在瀏覽器 IndexedDB，報價由本機 Python 伺服器抓取，並以 PWA 部署。 | TypeScript、Vite、Python、GitHub Actions | 2026-11-18 |
 
+## 技術筆記
+
+我在 HackMD 整理學習與開發的筆記，歡迎參考：[hackmd.io/@YuMingCorn](https://hackmd.io/@YuMingCorn)
+
 ## 聯絡方式
 
 - GitHub：[YuMingCorn](https://github.com/YuMingCorn)
