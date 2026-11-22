@@ -5,15 +5,17 @@
 
 我是來自台灣的軟體工程師。我喜歡親手實作，從底層理解技術原理。目前的興趣集中在以下幾個方向：
 
-- **電腦視覺與影像處理**：以 C 語言手刻基本影像演算法，並讓它能在樹莓派等邊緣裝置上執行。
-- **深度學習**：用 PyTorch 訓練與壓縮小型模型。
-- **AI Agent**：實作工具呼叫、權限控制等能力，並串接本地端或雲端的大型語言模型。
-- **個人工具與作品集**：開發可以實際使用的小型網頁應用程式。
+- **電腦視覺與影像處理**：以 C 語言手刻基本影像演算法，並讓它能在樹莓派等邊緣裝置上執行
+- **深度學習**：用 PyTorch 訓練與壓縮小型模型，並有在邊緣端裝置透過 tensorRT、ONNX、NCNN 部屬模型經驗
+- **AI Agent**：實作工具呼叫、權限控制等能力，並串接本地端或雲端的大型語言模型
+- **個人工具與作品集**：開發可以實際使用的小型網頁應用程式
+
 
 ## 最近專案
 
 | 專案 | 說明 | 技術 | 最後更新 |
 | :--- | :--- | :--- | :---: |
+| [llm-wiki](https://github.com/YuMingCorn/llm-wiki) | 讓 LLM 維護的個人知識庫模板。放進論文與文章，Claude Code 會整理成互相連結、附頁碼出處的 Markdown 頁面。 | Python、uv、Claude Code | 2026-11-22 |
 | [corn_agent](https://github.com/YuMingCorn/corn_agent) | 循序漸進的 AI Agent 教學，從模型連線、工具呼叫一路做到權限控制。 | Python、uv、OpenAI 相容 API | 2026-11-22 |
 | [torchnetaug](https://github.com/YuMingCorn/torchnetaug) | 在純 PyTorch 實作 Network Augmentation（NetAug），提升小模型的準確率；訓練後只匯出小模型，推論成本不變。 | PyTorch、torch.fx | 2026-11-21 |
 | [OpenCV_For_Edge_Device](https://github.com/YuMingCorn/OpenCV_For_Edge_Device) | 以 C11 手刻基本影像處理，全部使用整數定點運算，各平台輸出逐 byte 相同，可編譯到樹莓派、Cortex-M 與 AVR。 | C11、CMake | 2026-11-14 |
@@ -21,7 +23,7 @@
 
 ## 技術筆記
 
-我在 HackMD 整理學習與開發的筆記，歡迎參考：[hackmd.io/@YuMingCorn](https://hackmd.io/@YuMingCorn)
+HackMD 是我記錄與整理各類筆記的地方，歡迎參考：[hackmd.io/@YuMingCorn](https://hackmd.io/@YuMingCorn)
 
 ## 聯絡方式
 
